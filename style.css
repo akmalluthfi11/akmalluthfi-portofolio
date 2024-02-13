@@ -1,0 +1,42 @@
+.navbar-nav {
+  margin-left: auto;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #361212;
+}
+
+.display-4 {
+  font: bold;
+}
+
+.lead {
+  font: caption;
+}
+
+#projects {
+  background-color: #361212;
+}
+
+.display-4 {
+  color: #fff;
+}
+
+.col {
+  color: #fff;
+}
+
+.lead{
+  color: #fff;
+}
+
+#projects .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+section {
+  padding-top: 5rem;
+}
